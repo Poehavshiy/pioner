@@ -1,0 +1,4 @@
+/home/nikita/ClionProjects/pioner/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/ClionProjects/pioner/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/ClionProjects/pioner/cmake-build-debug/CMakeFiles/pioner.dir
+/home/nikita/ClionProjects/pioner/cmake-build-debug/CMakeFiles/pioner_automoc.dir
